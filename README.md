@@ -155,8 +155,8 @@ The model was trained for 29 epochs with a batch size of 128 and a learning rate
 
 The losses and accuracies for the training and test sets are as follows:
 
-![Losses and Accuracies](.\assets\losses_and_accuracies.png)
+![Losses and Accuracies](./assets/losses_and_accuracies.png)
 
 The misclassified images are as follows:
 
-![Misclassified Images](.\assets\misclassified_images.png)
+![Misclassified Images](./assets/misclassified_images.png)
